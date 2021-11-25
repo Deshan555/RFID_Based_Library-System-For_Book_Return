@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Self_Service_Application">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Self_Service_Application.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

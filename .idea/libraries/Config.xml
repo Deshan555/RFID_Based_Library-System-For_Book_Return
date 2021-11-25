@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Config">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Config.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
